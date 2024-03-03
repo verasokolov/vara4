@@ -5,9 +5,6 @@
 #include <common/system.h>
 #include <consensus/validation.h>
 #include <interfaces/chain.h>
-#include <policy/fees.h>
-#include <policy/policy.h>
-#include <util/moneystr.h>
 #include <util/rbf.h>
 #include <util/translation.h>
 #include <wallet/coincontrol.h>
